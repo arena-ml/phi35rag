@@ -8,7 +8,7 @@
 ---
 TODO:
 
-- [ ] add ENV variable that can used in step 1 what category of articles to fetch
+- [ ] add ENV variable that can be used in step 1 to limit category of articles to fetch
 
 
 ---
